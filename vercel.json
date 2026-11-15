@@ -2,12 +2,10 @@
   "version": 2,
   "functions": {
     "api/send.js": {
-      "runtime": "nodejs20.x",
       "maxDuration": 60,
       "memory": 1024
     },
     "api/endpoints.js": {
-      "runtime": "nodejs20.x",
       "maxDuration": 10,
       "memory": 256
     }
